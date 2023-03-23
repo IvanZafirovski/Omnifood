@@ -106,6 +106,7 @@ body {
 .grid--5-cols {
   grid-template-columns: repeat(5, 1fr);
 }
+
 /* align items verticly */
 .grid--center-v {
   align-items: center;
