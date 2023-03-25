@@ -68,7 +68,8 @@ html {
   /* all the element that overflow oin X axis will be hidden*/
   overflow-x: hidden;
 
-  scroll-behavior: smooth;
+  /* does not work on safary*/
+  /*** scroll-behavior: smooth; */
 }
 body {
   font-family: "Rubik", sans-serif;
